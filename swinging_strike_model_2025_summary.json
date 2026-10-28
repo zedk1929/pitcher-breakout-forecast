@@ -1,0 +1,54 @@
+{
+  "train_seasons": [
+    2022,
+    2023,
+    2024
+  ],
+  "development_season": 2025,
+  "first_half_min_bf": 100,
+  "second_half_min_bf": 100,
+  "shrinkage_bf": 100,
+  "train_pitchers": 841,
+  "development_pitchers": 262,
+  "feature": "Statcast first-half swinging_strike_rate (misses / tracked pitches)",
+  "mean_train_swinging_strike_rate": 0.114319,
+  "mean_train_baseline_residual": 0.006677,
+  "slope": 0.211214,
+  "training": {
+    "baseline": {
+      "mae_pp": 4.416,
+      "rmse_pp": 5.702
+    },
+    "calibrated": {
+      "mae_pp": 4.405,
+      "rmse_pp": 5.663
+    },
+    "swing_model": {
+      "mae_pp": 4.381,
+      "rmse_pp": 5.636
+    }
+  },
+  "development": {
+    "baseline": {
+      "mae_pp": 4.713,
+      "rmse_pp": 5.893
+    },
+    "calibrated": {
+      "mae_pp": 4.639,
+      "rmse_pp": 5.803
+    },
+    "swing_model": {
+      "mae_pp": 4.651,
+      "rmse_pp": 5.807
+    }
+  },
+  "swinging_strike_increment_over_calibration": {
+    "mae_improvement_pp": -0.013,
+    "paired_bootstrap_95pct_interval_pp": [
+      -0.078,
+      0.055
+    ],
+    "bootstrap_draws": 10000,
+    "seed": 2025
+  }
+}

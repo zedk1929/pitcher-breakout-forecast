@@ -1,0 +1,5 @@
+season,pitchers,first_half_eligible,both_halves_evaluable,not_evaluable,first_half_league_kbb_pct,league_only_mae_pp,unchanged_mae_pp,shrunk_100bf_mae_pp,shrinkage_improvement_pp
+2022,871,348,279,69,13.876,5.375,4.695,4.234,0.461
+2023,863,381,282,99,14.080,5.008,4.967,4.355,0.612
+2024,855,387,280,107,14.007,5.297,5.262,4.658,0.604
+2025,873,373,262,111,13.399,5.444,5.074,4.713,0.361

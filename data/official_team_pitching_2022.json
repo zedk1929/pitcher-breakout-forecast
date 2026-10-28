@@ -1,0 +1,212 @@
+{
+  "OAK": {
+    "team": "Oakland Athletics",
+    "K": 1203,
+    "BB": 503,
+    "BF": 6121,
+    "pitches": 23324
+  },
+  "PIT": {
+    "team": "Pittsburgh Pirates",
+    "K": 1250,
+    "BB": 586,
+    "BF": 6263,
+    "pitches": 24246
+  },
+  "SD": {
+    "team": "San Diego Padres",
+    "K": 1451,
+    "BB": 468,
+    "BF": 6047,
+    "pitches": 23762
+  },
+  "SEA": {
+    "team": "Seattle Mariners",
+    "K": 1391,
+    "BB": 447,
+    "BF": 5986,
+    "pitches": 23227
+  },
+  "SF": {
+    "team": "San Francisco Giants",
+    "K": 1370,
+    "BB": 441,
+    "BF": 6070,
+    "pitches": 23628
+  },
+  "STL": {
+    "team": "St. Louis Cardinals",
+    "K": 1177,
+    "BB": 489,
+    "BF": 6014,
+    "pitches": 23520
+  },
+  "TB": {
+    "team": "Tampa Bay Rays",
+    "K": 1384,
+    "BB": 384,
+    "BF": 5930,
+    "pitches": 22724
+  },
+  "TEX": {
+    "team": "Texas Rangers",
+    "K": 1314,
+    "BB": 581,
+    "BF": 6167,
+    "pitches": 23658
+  },
+  "TOR": {
+    "team": "Toronto Blue Jays",
+    "K": 1390,
+    "BB": 424,
+    "BF": 6053,
+    "pitches": 23075
+  },
+  "MIN": {
+    "team": "Minnesota Twins",
+    "K": 1336,
+    "BB": 468,
+    "BF": 6042,
+    "pitches": 23611
+  },
+  "PHI": {
+    "team": "Philadelphia Phillies",
+    "K": 1423,
+    "BB": 463,
+    "BF": 6006,
+    "pitches": 23233
+  },
+  "ATL": {
+    "team": "Atlanta Braves",
+    "K": 1554,
+    "BB": 500,
+    "BF": 6031,
+    "pitches": 23841
+  },
+  "CWS": {
+    "team": "Chicago White Sox",
+    "K": 1450,
+    "BB": 533,
+    "BF": 6145,
+    "pitches": 24317
+  },
+  "MIA": {
+    "team": "Miami Marlins",
+    "K": 1437,
+    "BB": 511,
+    "BF": 6056,
+    "pitches": 23864
+  },
+  "NYY": {
+    "team": "New York Yankees",
+    "K": 1459,
+    "BB": 444,
+    "BF": 5938,
+    "pitches": 23219
+  },
+  "MIL": {
+    "team": "Milwaukee Brewers",
+    "K": 1530,
+    "BB": 521,
+    "BF": 6057,
+    "pitches": 24369
+  },
+  "LAA": {
+    "team": "Los Angeles Angels",
+    "K": 1383,
+    "BB": 540,
+    "BF": 6038,
+    "pitches": 23515
+  },
+  "AZ": {
+    "team": "Arizona Diamondbacks",
+    "K": 1216,
+    "BB": 504,
+    "BF": 6065,
+    "pitches": 23569
+  },
+  "BAL": {
+    "team": "Baltimore Orioles",
+    "K": 1214,
+    "BB": 443,
+    "BF": 6058,
+    "pitches": 23252
+  },
+  "BOS": {
+    "team": "Boston Red Sox",
+    "K": 1346,
+    "BB": 526,
+    "BF": 6167,
+    "pitches": 23905
+  },
+  "CHC": {
+    "team": "Chicago Cubs",
+    "K": 1383,
+    "BB": 540,
+    "BF": 6162,
+    "pitches": 24162
+  },
+  "CIN": {
+    "team": "Cincinnati Reds",
+    "K": 1414,
+    "BB": 612,
+    "BF": 6220,
+    "pitches": 24868
+  },
+  "CLE": {
+    "team": "Cleveland Guardians",
+    "K": 1390,
+    "BB": 435,
+    "BF": 5989,
+    "pitches": 22891
+  },
+  "COL": {
+    "team": "Colorado Rockies",
+    "K": 1187,
+    "BB": 539,
+    "BF": 6240,
+    "pitches": 23720
+  },
+  "DET": {
+    "team": "Detroit Tigers",
+    "K": 1195,
+    "BB": 511,
+    "BF": 6047,
+    "pitches": 23382
+  },
+  "HOU": {
+    "team": "Houston Astros",
+    "K": 1524,
+    "BB": 458,
+    "BF": 5856,
+    "pitches": 22936
+  },
+  "KC": {
+    "team": "Kansas City Royals",
+    "K": 1191,
+    "BB": 589,
+    "BF": 6249,
+    "pitches": 24447
+  },
+  "LAD": {
+    "team": "Los Angeles Dodgers",
+    "K": 1465,
+    "BB": 407,
+    "BF": 5865,
+    "pitches": 22576
+  },
+  "WSH": {
+    "team": "Washington Nationals",
+    "K": 1220,
+    "BB": 558,
+    "BF": 6220,
+    "pitches": 24394
+  },
+  "NYM": {
+    "team": "New York Mets",
+    "K": 1565,
+    "BB": 428,
+    "BF": 5950,
+    "pitches": 23305
+  }
+}

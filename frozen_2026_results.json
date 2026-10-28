@@ -1,0 +1,99 @@
+{
+  "protocol": "09_Frozen_2026_Protocol.md",
+  "model_artifact_sha256": "09a0388f4d50af0ce9daeef9c1556d301a3fc55b322bc27278279ab4696f03e8",
+  "selected_model": "calibrated 100-BF shrinkage baseline",
+  "frozen_intercept": 0.006677184582860313,
+  "first_half_league_kbb_rate": 0.130804,
+  "first_half_eligible": 382,
+  "both_halves_evaluable": 275,
+  "not_evaluable": 107,
+  "zero_second_half_bf": 22,
+  "metrics_on_same_evaluable_pitchers": {
+    "unchanged": {
+      "mae_pp": 5.058,
+      "rmse_pp": 6.398,
+      "spearman": 0.476
+    },
+    "league_only": {
+      "mae_pp": 5.192,
+      "rmse_pp": 6.668,
+      "spearman": null
+    },
+    "raw_shrinkage": {
+      "mae_pp": 4.418,
+      "rmse_pp": 5.686,
+      "spearman": 0.484
+    },
+    "frozen_prediction": {
+      "mae_pp": 4.431,
+      "rmse_pp": 5.683,
+      "spearman": 0.484
+    }
+  },
+  "frozen_vs_raw_shrinkage": {
+    "improvement_pp": -0.013,
+    "paired_bootstrap_95pct_interval_pp": [
+      -0.089,
+      0.065
+    ],
+    "draws": 10000,
+    "seed": 2026
+  },
+  "apparent_breakout_rule": "2025 full-season BF >=100 and 2026 first-half BF >=100 and K-BB% gain >=3 pp",
+  "apparent_breakout_count": 72,
+  "apparent_breakout_evaluable": 60,
+  "apparent_breakout_not_evaluable": 12,
+  "apparent_breakout_persisted": 40,
+  "top_five_apparent_by_june_gain": [
+    {
+      "pitcher_id": "670059",
+      "pitcher_name": "Colin Holderman",
+      "first_vs_prior_change_pp": 20.814,
+      "second_bf": 106,
+      "evaluable": true,
+      "breakout_persisted": true
+    },
+    {
+      "pitcher_id": "682243",
+      "pitcher_name": "Bryce Miller",
+      "first_vs_prior_change_pp": 19.857,
+      "second_bf": 322,
+      "evaluable": true,
+      "breakout_persisted": false
+    },
+    {
+      "pitcher_id": "656945",
+      "pitcher_name": "Tanner Scott",
+      "first_vs_prior_change_pp": 13.305,
+      "second_bf": 125,
+      "evaluable": true,
+      "breakout_persisted": true
+    },
+    {
+      "pitcher_id": "661395",
+      "pitcher_name": "Jhoan Duran",
+      "first_vs_prior_change_pp": 13.291,
+      "second_bf": 126,
+      "evaluable": true,
+      "breakout_persisted": true
+    },
+    {
+      "pitcher_id": "669020",
+      "pitcher_name": "Ryan Rolison",
+      "first_vs_prior_change_pp": 12.163,
+      "second_bf": 134,
+      "evaluable": true,
+      "breakout_persisted": true
+    }
+  ],
+  "data_sources": [
+    "https://statsapi.mlb.com/api/v1/stats?stats=season&group=pitching&season=2025&sportIds=1&playerPool=ALL&gameType=R&limit=2000",
+    "https://statsapi.mlb.com/api/v1/stats?stats=byDateRange&group=pitching&season=2026&sportIds=1&playerPool=ALL&gameType=R&limit=2000&startDate=2026-01-01&endDate=2026-06-30",
+    "https://statsapi.mlb.com/api/v1/stats?stats=byDateRange&group=pitching&season=2026&sportIds=1&playerPool=ALL&gameType=R&limit=2000&startDate=2026-07-01&endDate=2026-12-31",
+    "https://statsapi.mlb.com/api/v1/stats?stats=season&group=pitching&season=2026&sportIds=1&playerPool=ALL&gameType=R&limit=2000"
+  ],
+  "additivity_checks_passed": [
+    2025,
+    2026
+  ]
+}

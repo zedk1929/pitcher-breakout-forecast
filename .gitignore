@@ -1,0 +1,9 @@
+# Raw Statcast downloads remain in this project folder, outside the shared repo.
+/data/raw/
+/statcast_*.csv
+
+# Local runtime and interrupted downloads.
+__pycache__/
+*.py[cod]
+*.part
+.DS_Store

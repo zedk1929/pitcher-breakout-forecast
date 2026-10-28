@@ -1,0 +1,638 @@
+{
+  "season": 2022,
+  "source_files": 37,
+  "pitch_rows": 710210,
+  "unknown_inning_rows": {},
+  "teams": {
+    "ATL": {
+      "official": {
+        "team": "Atlanta Braves",
+        "K": 1554,
+        "BB": 500,
+        "BF": 6031,
+        "pitches": 23841
+      },
+      "statcast": {
+        "pitches": 23905,
+        "BF": 6031,
+        "K": 1554,
+        "BB": 500
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 64
+      }
+    },
+    "AZ": {
+      "official": {
+        "team": "Arizona Diamondbacks",
+        "K": 1216,
+        "BB": 504,
+        "BF": 6065,
+        "pitches": 23569
+      },
+      "statcast": {
+        "pitches": 23625,
+        "BF": 6065,
+        "K": 1216,
+        "BB": 504
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 56
+      }
+    },
+    "BAL": {
+      "official": {
+        "team": "Baltimore Orioles",
+        "K": 1214,
+        "BB": 443,
+        "BF": 6058,
+        "pitches": 23252
+      },
+      "statcast": {
+        "pitches": 23279,
+        "BF": 6058,
+        "K": 1214,
+        "BB": 443
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 27
+      }
+    },
+    "BOS": {
+      "official": {
+        "team": "Boston Red Sox",
+        "K": 1346,
+        "BB": 526,
+        "BF": 6167,
+        "pitches": 23905
+      },
+      "statcast": {
+        "pitches": 23971,
+        "BF": 6167,
+        "K": 1346,
+        "BB": 526
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 66
+      }
+    },
+    "CHC": {
+      "official": {
+        "team": "Chicago Cubs",
+        "K": 1383,
+        "BB": 540,
+        "BF": 6162,
+        "pitches": 24162
+      },
+      "statcast": {
+        "pitches": 24218,
+        "BF": 6162,
+        "K": 1383,
+        "BB": 540
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 56
+      }
+    },
+    "CIN": {
+      "official": {
+        "team": "Cincinnati Reds",
+        "K": 1414,
+        "BB": 612,
+        "BF": 6220,
+        "pitches": 24868
+      },
+      "statcast": {
+        "pitches": 24948,
+        "BF": 6220,
+        "K": 1414,
+        "BB": 612
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 80
+      }
+    },
+    "CLE": {
+      "official": {
+        "team": "Cleveland Guardians",
+        "K": 1390,
+        "BB": 435,
+        "BF": 5989,
+        "pitches": 22891
+      },
+      "statcast": {
+        "pitches": 22943,
+        "BF": 5989,
+        "K": 1390,
+        "BB": 435
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 52
+      }
+    },
+    "COL": {
+      "official": {
+        "team": "Colorado Rockies",
+        "K": 1187,
+        "BB": 539,
+        "BF": 6240,
+        "pitches": 23720
+      },
+      "statcast": {
+        "pitches": 23759,
+        "BF": 6240,
+        "K": 1187,
+        "BB": 539
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 39
+      }
+    },
+    "CWS": {
+      "official": {
+        "team": "Chicago White Sox",
+        "K": 1450,
+        "BB": 533,
+        "BF": 6145,
+        "pitches": 24317
+      },
+      "statcast": {
+        "pitches": 24361,
+        "BF": 6145,
+        "K": 1450,
+        "BB": 533
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 44
+      }
+    },
+    "DET": {
+      "official": {
+        "team": "Detroit Tigers",
+        "K": 1195,
+        "BB": 511,
+        "BF": 6047,
+        "pitches": 23382
+      },
+      "statcast": {
+        "pitches": 23418,
+        "BF": 6047,
+        "K": 1195,
+        "BB": 511
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 36
+      }
+    },
+    "HOU": {
+      "official": {
+        "team": "Houston Astros",
+        "K": 1524,
+        "BB": 458,
+        "BF": 5856,
+        "pitches": 22936
+      },
+      "statcast": {
+        "pitches": 22953,
+        "BF": 5856,
+        "K": 1524,
+        "BB": 458
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 17
+      }
+    },
+    "KC": {
+      "official": {
+        "team": "Kansas City Royals",
+        "K": 1191,
+        "BB": 589,
+        "BF": 6249,
+        "pitches": 24447
+      },
+      "statcast": {
+        "pitches": 24499,
+        "BF": 6249,
+        "K": 1191,
+        "BB": 589
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 52
+      }
+    },
+    "LAA": {
+      "official": {
+        "team": "Los Angeles Angels",
+        "K": 1383,
+        "BB": 540,
+        "BF": 6038,
+        "pitches": 23515
+      },
+      "statcast": {
+        "pitches": 23606,
+        "BF": 6038,
+        "K": 1383,
+        "BB": 540
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 91
+      }
+    },
+    "LAD": {
+      "official": {
+        "team": "Los Angeles Dodgers",
+        "K": 1465,
+        "BB": 407,
+        "BF": 5865,
+        "pitches": 22576
+      },
+      "statcast": {
+        "pitches": 22625,
+        "BF": 5865,
+        "K": 1465,
+        "BB": 407
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 49
+      }
+    },
+    "MIA": {
+      "official": {
+        "team": "Miami Marlins",
+        "K": 1437,
+        "BB": 511,
+        "BF": 6056,
+        "pitches": 23864
+      },
+      "statcast": {
+        "pitches": 23934,
+        "BF": 6056,
+        "K": 1437,
+        "BB": 511
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 70
+      }
+    },
+    "MIL": {
+      "official": {
+        "team": "Milwaukee Brewers",
+        "K": 1530,
+        "BB": 521,
+        "BF": 6057,
+        "pitches": 24369
+      },
+      "statcast": {
+        "pitches": 24414,
+        "BF": 6057,
+        "K": 1530,
+        "BB": 521
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 45
+      }
+    },
+    "MIN": {
+      "official": {
+        "team": "Minnesota Twins",
+        "K": 1336,
+        "BB": 468,
+        "BF": 6042,
+        "pitches": 23611
+      },
+      "statcast": {
+        "pitches": 23680,
+        "BF": 6042,
+        "K": 1336,
+        "BB": 468
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 69
+      }
+    },
+    "NYM": {
+      "official": {
+        "team": "New York Mets",
+        "K": 1565,
+        "BB": 428,
+        "BF": 5950,
+        "pitches": 23305
+      },
+      "statcast": {
+        "pitches": 23354,
+        "BF": 5950,
+        "K": 1565,
+        "BB": 428
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 49
+      }
+    },
+    "NYY": {
+      "official": {
+        "team": "New York Yankees",
+        "K": 1459,
+        "BB": 444,
+        "BF": 5938,
+        "pitches": 23219
+      },
+      "statcast": {
+        "pitches": 23252,
+        "BF": 5938,
+        "K": 1459,
+        "BB": 444
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 33
+      }
+    },
+    "OAK": {
+      "official": {
+        "team": "Oakland Athletics",
+        "K": 1203,
+        "BB": 503,
+        "BF": 6121,
+        "pitches": 23324
+      },
+      "statcast": {
+        "pitches": 23457,
+        "BF": 6121,
+        "K": 1203,
+        "BB": 503
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 133
+      }
+    },
+    "PHI": {
+      "official": {
+        "team": "Philadelphia Phillies",
+        "K": 1423,
+        "BB": 463,
+        "BF": 6006,
+        "pitches": 23233
+      },
+      "statcast": {
+        "pitches": 23288,
+        "BF": 6006,
+        "K": 1423,
+        "BB": 463
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 55
+      }
+    },
+    "PIT": {
+      "official": {
+        "team": "Pittsburgh Pirates",
+        "K": 1250,
+        "BB": 586,
+        "BF": 6263,
+        "pitches": 24246
+      },
+      "statcast": {
+        "pitches": 24318,
+        "BF": 6263,
+        "K": 1250,
+        "BB": 586
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 72
+      }
+    },
+    "SD": {
+      "official": {
+        "team": "San Diego Padres",
+        "K": 1451,
+        "BB": 468,
+        "BF": 6047,
+        "pitches": 23762
+      },
+      "statcast": {
+        "pitches": 23784,
+        "BF": 6047,
+        "K": 1451,
+        "BB": 468
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 22
+      }
+    },
+    "SEA": {
+      "official": {
+        "team": "Seattle Mariners",
+        "K": 1391,
+        "BB": 447,
+        "BF": 5986,
+        "pitches": 23227
+      },
+      "statcast": {
+        "pitches": 23310,
+        "BF": 5986,
+        "K": 1391,
+        "BB": 447
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 83
+      }
+    },
+    "SF": {
+      "official": {
+        "team": "San Francisco Giants",
+        "K": 1370,
+        "BB": 441,
+        "BF": 6070,
+        "pitches": 23628
+      },
+      "statcast": {
+        "pitches": 23685,
+        "BF": 6070,
+        "K": 1370,
+        "BB": 441
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 57
+      }
+    },
+    "STL": {
+      "official": {
+        "team": "St. Louis Cardinals",
+        "K": 1177,
+        "BB": 489,
+        "BF": 6014,
+        "pitches": 23520
+      },
+      "statcast": {
+        "pitches": 23558,
+        "BF": 6014,
+        "K": 1177,
+        "BB": 489
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 38
+      }
+    },
+    "TB": {
+      "official": {
+        "team": "Tampa Bay Rays",
+        "K": 1384,
+        "BB": 384,
+        "BF": 5930,
+        "pitches": 22724
+      },
+      "statcast": {
+        "pitches": 22775,
+        "BF": 5930,
+        "K": 1384,
+        "BB": 384
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 51
+      }
+    },
+    "TEX": {
+      "official": {
+        "team": "Texas Rangers",
+        "K": 1314,
+        "BB": 581,
+        "BF": 6167,
+        "pitches": 23658
+      },
+      "statcast": {
+        "pitches": 23719,
+        "BF": 6167,
+        "K": 1314,
+        "BB": 581
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 61
+      }
+    },
+    "TOR": {
+      "official": {
+        "team": "Toronto Blue Jays",
+        "K": 1390,
+        "BB": 424,
+        "BF": 6053,
+        "pitches": 23075
+      },
+      "statcast": {
+        "pitches": 23136,
+        "BF": 6053,
+        "K": 1390,
+        "BB": 424
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 61
+      }
+    },
+    "WSH": {
+      "official": {
+        "team": "Washington Nationals",
+        "K": 1220,
+        "BB": 558,
+        "BF": 6220,
+        "pitches": 24394
+      },
+      "statcast": {
+        "pitches": 24436,
+        "BF": 6220,
+        "K": 1220,
+        "BB": 558
+      },
+      "difference": {
+        "K": 0,
+        "BB": 0,
+        "BF": 0,
+        "pitches": 42
+      }
+    }
+  }
+}

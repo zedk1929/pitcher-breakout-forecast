@@ -1,0 +1,11 @@
+candidate,train_years,validation_year,train_pitchers,validation_pitchers,mae_pp,pooled_2023_2024_mae_pp
+calibrated,2022,2023,279,282,4.438,4.541
+swinging_strike_rate,2022,2023,279,282,4.458,4.532
+primary_fastball_speed_mph,2022,2023,279,282,4.433,4.530
+breaking_share,2022,2023,279,282,4.462,4.554
+primary_fastball_pfx_z_inches,2022,2023,279,282,4.400,4.494
+calibrated,2022+2023,2024,561,280,4.645,4.541
+swinging_strike_rate,2022+2023,2024,561,280,4.607,4.532
+primary_fastball_speed_mph,2022+2023,2024,561,280,4.628,4.530
+breaking_share,2022+2023,2024,561,280,4.647,4.554
+primary_fastball_pfx_z_inches,2022+2023,2024,561,280,4.588,4.494

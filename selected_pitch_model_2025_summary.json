@@ -1,0 +1,37 @@
+{
+  "candidate_order": [
+    "calibrated",
+    "swinging_strike_rate",
+    "primary_fastball_speed_mph",
+    "breaking_share",
+    "primary_fastball_pfx_z_inches"
+  ],
+  "choice_rule": "Improve 2023 and 2024 MAE and pooled MAE by at least 0.05 pp; otherwise calibrated baseline",
+  "pooled_calibrated_mae_pp": 4.541,
+  "pooled_candidate_mae_pp": {
+    "calibrated": 4.541,
+    "swinging_strike_rate": 4.532,
+    "primary_fastball_speed_mph": 4.53,
+    "breaking_share": 4.554,
+    "primary_fastball_pfx_z_inches": 4.494
+  },
+  "qualified_traits": [],
+  "selected": "calibrated",
+  "fit_years": [
+    2022,
+    2023,
+    2024
+  ],
+  "fit_pitcher_seasons": 841,
+  "fit_parameters": {
+    "residual_mean": 0.006677184582860313,
+    "feature_mean": null,
+    "slope": 0.0
+  },
+  "development_year": 2025,
+  "development_pitchers": 262,
+  "development_calibrated_mae_pp": 4.639,
+  "development_selected_mae_pp": 4.639,
+  "final_holdout_year": 2026,
+  "final_holdout_evaluated": false
+}

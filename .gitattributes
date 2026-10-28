@@ -1,0 +1,2 @@
+# Keep generated CSV bytes intact; Git should not reinterpret their CRLF endings.
+*.csv -text -diff

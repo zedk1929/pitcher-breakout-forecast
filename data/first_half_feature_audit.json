@@ -1,0 +1,42 @@
+{
+  "2022": {
+    "pitch_rows": 334175,
+    "missing_pitch_type": 769,
+    "missing_release_speed": 809,
+    "missing_pfx_z": 810,
+    "eligible_pitchers": 348,
+    "missing_primary_fastball_speed": 0,
+    "missing_primary_fastball_pfx_z": 0,
+    "primary_fastball_under_20": 0
+  },
+  "2023": {
+    "pitch_rows": 364522,
+    "missing_pitch_type": 1510,
+    "missing_release_speed": 1412,
+    "missing_pfx_z": 1413,
+    "eligible_pitchers": 381,
+    "missing_primary_fastball_speed": 0,
+    "missing_primary_fastball_pfx_z": 0,
+    "primary_fastball_under_20": 0
+  },
+  "2024": {
+    "pitch_rows": 368497,
+    "missing_pitch_type": 1475,
+    "missing_release_speed": 1426,
+    "missing_pfx_z": 1427,
+    "eligible_pitchers": 387,
+    "missing_primary_fastball_speed": 0,
+    "missing_primary_fastball_pfx_z": 0,
+    "primary_fastball_under_20": 0
+  },
+  "2025": {
+    "pitch_rows": 370587,
+    "missing_pitch_type": 1416,
+    "missing_release_speed": 1387,
+    "missing_pfx_z": 1390,
+    "eligible_pitchers": 373,
+    "missing_primary_fastball_speed": 0,
+    "missing_primary_fastball_pfx_z": 0,
+    "primary_fastball_under_20": 0
+  }
+}

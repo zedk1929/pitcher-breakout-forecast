@@ -1,0 +1,314 @@
+[
+  {
+    "start": "2025-03-18",
+    "end": "2025-03-24",
+    "pitches": 631,
+    "games": 2,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-03-18_2025-03-24.csv.gz"
+  },
+  {
+    "start": "2025-03-25",
+    "end": "2025-03-31",
+    "pitches": 19155,
+    "games": 65,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-03-25_2025-03-31.csv.gz"
+  },
+  {
+    "start": "2025-04-01",
+    "end": "2025-04-05",
+    "pitches": 17847,
+    "games": 61,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-04-01_2025-04-05.csv.gz"
+  },
+  {
+    "start": "2025-04-06",
+    "end": "2025-04-10",
+    "pitches": 18296,
+    "games": 62,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-04-06_2025-04-10.csv.gz"
+  },
+  {
+    "start": "2025-04-11",
+    "end": "2025-04-15",
+    "pitches": 20018,
+    "games": 69,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-04-11_2025-04-15.csv.gz"
+  },
+  {
+    "start": "2025-04-16",
+    "end": "2025-04-20",
+    "pitches": 20697,
+    "games": 70,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-04-16_2025-04-20.csv.gz"
+  },
+  {
+    "start": "2025-04-21",
+    "end": "2025-04-25",
+    "pitches": 17278,
+    "games": 59,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-04-21_2025-04-25.csv.gz"
+  },
+  {
+    "start": "2025-04-26",
+    "end": "2025-04-30",
+    "pitches": 20631,
+    "games": 70,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-04-26_2025-04-30.csv.gz"
+  },
+  {
+    "start": "2025-05-01",
+    "end": "2025-05-05",
+    "pitches": 18830,
+    "games": 65,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-05-01_2025-05-05.csv.gz"
+  },
+  {
+    "start": "2025-05-06",
+    "end": "2025-05-10",
+    "pitches": 20403,
+    "games": 69,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-05-06_2025-05-10.csv.gz"
+  },
+  {
+    "start": "2025-05-11",
+    "end": "2025-05-15",
+    "pitches": 17867,
+    "games": 62,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-05-11_2025-05-15.csv.gz"
+  },
+  {
+    "start": "2025-05-16",
+    "end": "2025-05-20",
+    "pitches": 20643,
+    "games": 71,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-05-16_2025-05-20.csv.gz"
+  },
+  {
+    "start": "2025-05-21",
+    "end": "2025-05-25",
+    "pitches": 20235,
+    "games": 68,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-05-21_2025-05-25.csv.gz"
+  },
+  {
+    "start": "2025-05-26",
+    "end": "2025-05-30",
+    "pitches": 17829,
+    "games": 61,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-05-26_2025-05-30.csv.gz"
+  },
+  {
+    "start": "2025-05-31",
+    "end": "2025-06-04",
+    "pitches": 19128,
+    "games": 66,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-05-31_2025-06-04.csv.gz"
+  },
+  {
+    "start": "2025-06-05",
+    "end": "2025-06-09",
+    "pitches": 19573,
+    "games": 67,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-06-05_2025-06-09.csv.gz"
+  },
+  {
+    "start": "2025-06-10",
+    "end": "2025-06-14",
+    "pitches": 19847,
+    "games": 68,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-06-10_2025-06-14.csv.gz"
+  },
+  {
+    "start": "2025-06-15",
+    "end": "2025-06-19",
+    "pitches": 18779,
+    "games": 65,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-06-15_2025-06-19.csv.gz"
+  },
+  {
+    "start": "2025-06-20",
+    "end": "2025-06-24",
+    "pitches": 20387,
+    "games": 69,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-06-20_2025-06-24.csv.gz"
+  },
+  {
+    "start": "2025-06-25",
+    "end": "2025-06-29",
+    "pitches": 20253,
+    "games": 69,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-06-25_2025-06-29.csv.gz"
+  },
+  {
+    "start": "2025-06-30",
+    "end": "2025-07-04",
+    "pitches": 18386,
+    "games": 63,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-06-30_2025-07-04.csv.gz"
+  },
+  {
+    "start": "2025-07-05",
+    "end": "2025-07-09",
+    "pitches": 19842,
+    "games": 69,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-07-05_2025-07-09.csv.gz"
+  },
+  {
+    "start": "2025-07-10",
+    "end": "2025-07-14",
+    "pitches": 16461,
+    "games": 56,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-07-10_2025-07-14.csv.gz"
+  },
+  {
+    "start": "2025-07-15",
+    "end": "2025-07-19",
+    "pitches": 8603,
+    "games": 30,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-07-15_2025-07-19.csv.gz"
+  },
+  {
+    "start": "2025-07-20",
+    "end": "2025-07-24",
+    "pitches": 18613,
+    "games": 65,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-07-20_2025-07-24.csv.gz"
+  },
+  {
+    "start": "2025-07-25",
+    "end": "2025-07-29",
+    "pitches": 22464,
+    "games": 76,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-07-25_2025-07-29.csv.gz"
+  },
+  {
+    "start": "2025-07-30",
+    "end": "2025-08-03",
+    "pitches": 18166,
+    "games": 62,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-07-30_2025-08-03.csv.gz"
+  },
+  {
+    "start": "2025-08-04",
+    "end": "2025-08-08",
+    "pitches": 18263,
+    "games": 62,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-08-04_2025-08-08.csv.gz"
+  },
+  {
+    "start": "2025-08-09",
+    "end": "2025-08-13",
+    "pitches": 21354,
+    "games": 72,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-08-09_2025-08-13.csv.gz"
+  },
+  {
+    "start": "2025-08-14",
+    "end": "2025-08-18",
+    "pitches": 19054,
+    "games": 64,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-08-14_2025-08-18.csv.gz"
+  },
+  {
+    "start": "2025-08-19",
+    "end": "2025-08-23",
+    "pitches": 20030,
+    "games": 68,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-08-19_2025-08-23.csv.gz"
+  },
+  {
+    "start": "2025-08-24",
+    "end": "2025-08-28",
+    "pitches": 19153,
+    "games": 66,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-08-24_2025-08-28.csv.gz"
+  },
+  {
+    "start": "2025-08-29",
+    "end": "2025-09-02",
+    "pitches": 21523,
+    "games": 72,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-08-29_2025-09-02.csv.gz"
+  },
+  {
+    "start": "2025-09-03",
+    "end": "2025-09-07",
+    "pitches": 19738,
+    "games": 66,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-09-03_2025-09-07.csv.gz"
+  },
+  {
+    "start": "2025-09-08",
+    "end": "2025-09-12",
+    "pitches": 18818,
+    "games": 65,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-09-08_2025-09-12.csv.gz"
+  },
+  {
+    "start": "2025-09-13",
+    "end": "2025-09-17",
+    "pitches": 21267,
+    "games": 70,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-09-13_2025-09-17.csv.gz"
+  },
+  {
+    "start": "2025-09-18",
+    "end": "2025-09-22",
+    "pitches": 17195,
+    "games": 59,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-09-18_2025-09-22.csv.gz"
+  },
+  {
+    "start": "2025-09-23",
+    "end": "2025-09-27",
+    "pitches": 20811,
+    "games": 72,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-09-23_2025-09-27.csv.gz"
+  },
+  {
+    "start": "2025-09-28",
+    "end": "2025-09-28",
+    "pitches": 4460,
+    "games": 15,
+    "columns": 119,
+    "file": "data/raw/2025/statcast_2025-09-28_2025-09-28.csv.gz"
+  }
+]
